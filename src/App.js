@@ -47,6 +47,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>SPEED TYPING GAME</h1>
       <h1>How fast can you type?</h1>
       <textarea 
           ref={textBoxRef}
